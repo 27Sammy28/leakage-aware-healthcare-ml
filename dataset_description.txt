@@ -1,0 +1,9 @@
+Healthcare dataset used for leakage-aware machine learning experiments.
+
+The project investigates:
+- robustness under dataset shift
+- calibration-aware evaluation
+- reproducible benchmarking
+- leakage-safe validation
+
+Sensitive raw clinical data is not publicly included.
