@@ -12,9 +12,6 @@
   <img src="https://img.shields.io/badge/Status-Research%20Framework-purple.svg" alt="Research framework">
 </p>
 
-<p align="center">
-  <img src="figures/lacve_readme_architecture.svg" alt="LACVE leakage-aware calibrated voting ensemble research workflow" width="900">
-</p>
 
 ---
 
